@@ -17,7 +17,6 @@ Constrains :
 1=a[i]=100
 
 */
-
 import java.util.*;
 class BubbleSort {
     public static void main(String args[] ) throws Exception {
