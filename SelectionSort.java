@@ -31,7 +31,7 @@ Constraints
 
 import java.util.Scanner;
 class SelectionSort {
-    public static void main(String args[] ) throws Exception {
+    public static void main(String args[] ) throws Exception{
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
         int x = scanner.nextInt();
