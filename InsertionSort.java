@@ -1,7 +1,6 @@
 /*
 
 Insertion Sort
-
 You have been given an A array consisting of N integers. 
 All the elements in this array are guaranteed to be unique.
 For each position i in the array A you need to find the position A[i] should be present in, if the array was a sorted array.
